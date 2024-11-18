@@ -1,16 +1,9 @@
-(Fill out this file with brief answers.)
+Objectives for this project:
 
-Name(s) and NetID(s) of group members:
-
-Time spent on the assignment, in hours:
-
-Implementation strategy:
-    (describe how you went about implementing the assignment and how the work was divided between the partners.)
-
-Testing strategy:
-    (how did you perform testing and design test cases to achieve coverage?)
-
-Known problems:
-    (are there any things that do not work?)
-
-Comments on the assignment:
+- Implement Dijkstra’s algorithm
+- Test Dijkstra’s algorithm
+-  Improve the use of concurrency
+- The goal is to make it to the ring in as few steps as possible.
+- McDiver’s score is the product of these two quantities:
+1. The value of the coins that McDiver picks up during the scram phase.
+2. The score multiplier from the seek phase.
